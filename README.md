@@ -15,5 +15,5 @@ Dans ce package, vous avez les traductions françaises pour les versions 5.8 / 6
 #### Pour les pour les versions 5.8 / 6 / 7 :
 Le dossier **fr** doit être rangé dans le path **resources/lang** de votre projet Laravel.
 
-#### Pour les pour les version 9 :
+#### Pour les pour la version 9 :
 Le dossier **fr** doit être rangé dans le path **lang** de votre projet Laravel.
