@@ -12,8 +12,8 @@ Package mis en ligne par :
 
 Dans ce package, vous avez les traductions françaises pour les versions 5.8 / 6 / 7 / 9 du Framework PHP Laravel.
 
-#### Pour les pour les versions 5.8 / 6 / 7 :
+#### Pour les versions 5.8 / 6 / 7 :
 Le dossier **fr** doit être rangé dans le path **resources/lang** de votre projet Laravel.
 
-#### Pour les pour la version 9 :
+#### Pour la version 9 :
 Le dossier **fr** doit être rangé dans le path **lang** de votre projet Laravel.
