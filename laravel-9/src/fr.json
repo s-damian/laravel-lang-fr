@@ -1,0 +1,7 @@
+{
+    "The :attribute must contain at least one letter.": "Le champ :attribute doit contenir au moins une lettre.",
+    "The :attribute must contain at least one number.": "Le champ :attribute doit contenir au moins un nombre.",
+    "The :attribute must contain at least one symbol.": "Le champ :attribute doit contenir au moins un symbole.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Le champ :attribute doit contenir au moins une lettre majuscule et une lettre minuscule.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Le champ :attribute donné est apparu dans une fuite de données. Veuillez choisir un autre :attribute."
+}
