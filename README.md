@@ -1,12 +1,12 @@
-# Lang FR pour : Laravel 5.8 / Laravel 6 / Laravel 7 / Laravel 9 - Traduction française / French translation
+# Laravel Lang FR
 
+## Langue FR pour : Laravel 5.8 / Laravel 6 / Laravel 7 / Laravel 9 - Traduction française / French translation
 
 ### Auteur
 
 Package mis en ligne par :
 [Freelance Laravel](https://www.devandweb.fr)
 [![Freelance PHP](https://www.devandweb.fr/medias/app/website/developpeur-web.png)](https://www.devandweb.fr/freelance/developpeur-php)
-
 
 ### Détails
 
