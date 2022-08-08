@@ -6,7 +6,7 @@
 
 Package mis en ligne par :
 [Freelance Laravel](https://www.devandweb.fr)
-[![Freelance PHP](https://raw.githubusercontent.com/dev-and-web/medias/main/daw-freelance-developer.png)](https://www.devandweb.fr/freelance/developpeur-php)
+[![Freelance PHP](https://raw.githubusercontent.com/s-damian/medias/main/daw-freelance-developer.png)](https://www.devandweb.fr/freelance/developpeur-php)
 
 ### Détails
 
