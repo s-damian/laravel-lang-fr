@@ -18,5 +18,5 @@ return [
 
     "login_success" => "Vous êtes connecté.",
     "logout_success" => "Vous êtes déconnecté.",
-    
+
 ];

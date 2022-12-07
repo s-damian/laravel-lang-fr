@@ -15,5 +15,5 @@ return [
 
     'failed' => 'Ces certificats ne correspondent pas à nos enregistrements',
     'throttle' => 'Il y a eu trop de tentatives de connexion. Veuillez essayer de nouveau dans :seconds secondes.',
-    
+
 ];
