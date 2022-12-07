@@ -4,7 +4,7 @@ $baseDir = __DIR__ . '/../../';
 
 $finder = PhpCsFixer\Finder::create()
     ->in([
-        $baseDir . 'laravel-*',
+        $baseDir . 'laravel-*/src/fr',
     ])
     ->name('*.php');
 
