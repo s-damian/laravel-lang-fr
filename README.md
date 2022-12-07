@@ -17,7 +17,7 @@ Vous devez installer manuellement (dans votre projet Laravel) ce package (le con
 Dans ce package, vous avez les traductions françaises pour les versions 5.8 / 6 / 7 / 9 / 10 du Framework PHP Laravel.
 
 #### Pour les versions 5.8 / 6 / 7 :
-Le dossier ```fr``` (qui est dans ```src```) doit être rangé dans le path ```resources/lang```* de votre projet Laravel.
+Le dossier ```fr``` (qui est dans ```src```) doit être rangé dans le path ```resources/lang``` de votre projet Laravel.
 
 #### Pour la version 9 :
 Le contenu de ```src``` (dossier ```fr``` et fichiers ```.json```) doivent êtres rangées dans le path ```lang``` de votre projet Laravel.
