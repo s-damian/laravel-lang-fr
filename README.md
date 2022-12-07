@@ -20,7 +20,7 @@ Dans ce package, vous avez les traductions françaises pour les versions 5.8 / 6
 Le dossier ```fr``` (qui est dans ```src```) doit être rangé dans le path ```resources/lang``` de votre projet Laravel.
 
 #### Pour la version 9 :
-Le contenu de ```src``` (dossier ```fr``` et fichiers ```.json```) doivent êtres rangées dans le path ```lang``` de votre projet Laravel.
+Le contenu de ```src``` (dossier ```fr``` et fichiers ```.json```) doit être rangé dans le path ```lang``` de votre projet Laravel.
 
 #### Pour la futur version 10 :
 **Laravel 10** sort bientôt ! (c'est prévu pour février 2023)
