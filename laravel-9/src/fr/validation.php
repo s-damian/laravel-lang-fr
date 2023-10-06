@@ -79,9 +79,9 @@ return [
         'array' => 'Le champ :attribute doit avoir moins de :value éléments.',
     ],
     'lte' => [
-        'numeric' => 'Le champ :attribute doit être inférieur à or equal :value.',
-        'file' => 'Le champ :attribute doit être inférieur à or equal :value kilobytes.',
-        'string' => 'Le champ :attribute doit être inférieur à or equal :value caractères.',
+        'numeric' => 'Le champ :attribute doit être inférieur ou égal à :value.',
+        'file' => 'Le champ :attribute doit être inférieur ou égal à :value kilobytes.',
+        'string' => 'Le champ :attribute doit être inférieur ou égal à :value caractères.',
         'array' => 'Le champ :attribute ne doit pas avoir plus de :value éléments.',
     ],
     'mac_address' => 'Le champ :attribute doit être une adresse MAC valide.',
