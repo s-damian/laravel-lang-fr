@@ -58,9 +58,9 @@ return [
         'array'  => 'Le champ :attribute doit avoir plus de :value éléments.',
     ],
     'gte' => [
-        'numeric' => 'Le champ :attribute doit être supérieur ou égal :value.',
-        'file' => 'Le champ :attribute doit être supérieur ou égal :value kilobytes.',
-        'string' => 'Le champ :attribute doit être supérieur ou égal :value caractères.',
+        'numeric' => 'Le champ :attribute doit être supérieur ou égal à :value.',
+        'file' => 'Le champ :attribute doit être supérieur ou égal à :value kilobytes.',
+        'string' => 'Le champ :attribute doit être supérieur ou égal à :value caractères.',
         'array' => 'Le champ :attribute doit avoir :value éléments ou plus.',
     ],
     'image' => 'Le champ :attribute doit être une image.',
