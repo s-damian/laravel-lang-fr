@@ -61,9 +61,9 @@ return [
     ],
     'gte' => [
         'array' => 'Le champ :attribute doit avoir :value éléments ou plus.',
-        'file' => 'Le champ :attribute doit être supérieur ou égal :value kilobytes.',
-        'numeric' => 'Le champ :attribute doit être supérieur ou égal :value.',
-        'string' => 'Le champ :attribute doit être supérieur ou égal :value caractères.',
+        'file' => 'Le champ :attribute doit être supérieur ou égal à :value kilobytes.',
+        'numeric' => 'Le champ :attribute doit être supérieur ou égal à :value.',
+        'string' => 'Le champ :attribute doit être supérieur ou égal à :value caractères.',
     ],
     'image' => 'Le champ :attribute doit être une image.',
     'in' => 'Le champ :attribute est invalide.',
@@ -82,9 +82,9 @@ return [
     ],
     'lte' => [
         'array' => 'Le champ :attribute ne doit pas avoir plus de :value éléments.',
-        'file' => 'Le champ :attribute doit être inférieur à or equal :value kilobytes.',
-        'numeric' => 'Le champ :attribute doit être inférieur à or equal :value.',
-        'string' => 'Le champ :attribute doit être inférieur à or equal :value caractères.',
+        'file' => 'Le champ :attribute doit être inférieur ou égal à :value kilobytes.',
+        'numeric' => 'Le champ :attribute doit être inférieur ou égal à :value.',
+        'string' => 'Le champ :attribute doit être inférieur ou égal à :value caractères.',
     ],
     'mac_address' => 'Le champ :attribute doit être une adresse MAC valide.',
     'max' => [
