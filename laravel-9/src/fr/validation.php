@@ -87,7 +87,7 @@ return [
     'mac_address' => 'Le champ :attribute doit être une adresse MAC valide.',
     "max"  => [
         'numeric' => 'La valeur de :attribute ne peut être supérieure à :max.',
-        'file' => 'Le fichier :attribute ne peut être plus gros que :max kilo-octets.',
+        'file' => 'La taille du fichier :attribute ne peut être supérieure à :max kilo-octets.',
         'string' => 'Le texte de :attribute ne peut contenir plus de :max caractères.',
         'array' => 'Le tableau :attribute ne peut avoir plus de :max éléments.',
     ],
@@ -95,8 +95,8 @@ return [
     'mimes' => 'Le champ :attribute doit être un fichier de type : :values.',
     'mimetypes' => 'Le champ :attribute doit être un fichier de type : :values.',
     'min' => [
-        'numeric' => 'La valeur de :attribute doit être au moins de :min.',
-        'file' => 'Le fichier :attribute doit être au moins de :min kilo-octets.',
+        'numeric' => 'La valeur de :attribute ne peut être inférieure à :min.',
+        'file' => 'La taille du fichier :attribute ne peut être inférieure à :min kilo-octets.',
         'string' => 'Le texte du champ :attribute doit contenir au moins :min caractères.',
         'array' => 'Le tableau :attribute doit avoir au moins :min éléments.',
     ],
