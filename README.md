@@ -1,4 +1,4 @@
-# Laravel Lang FR - French translation for lang directory
+# Laravel Lang FR | French Translation | Lang Directory
 
 ## Langue FR pour : Laravel 11 / 10 / 9 / 7 / 6 / 5.8 - Traduction française
 
@@ -16,8 +16,8 @@ Vous devez installer manuellement (dans votre projet Laravel) ce package (le con
 
 Dans ce package, vous avez les traductions françaises pour les versions 5.8 / 6 / 7 / 9 / 10 du Framework PHP Laravel.
 
-#### Pour les versions 5.8 / 6 / 7 :
+#### - Pour les versions 5.8 / 6 / 7 :
 Le dossier ```fr``` (qui est dans ```src```) doit être rangé dans le path ```resources/lang``` de votre projet Laravel.
 
-#### Pour les versions 9 / 10 / 11 :
+#### - Pour les versions 9 / 10 / 11 :
 Le dossier ```fr``` (qui est dans ```src```) doit être rangé dans le path ```lang``` de votre projet Laravel.
