@@ -1,6 +1,6 @@
-# Laravel Lang FR
+# Laravel Lang FR - French translation for lang directory
 
-## Langue FR pour : Laravel 11 / 10 / 9 / 7 / 6 / 5.8 - Traduction française / French translation
+## Langue FR pour : Laravel 11 / 10 / 9 / 7 / 6 / 5.8 - Traduction française
 
 ### Auteur
 
