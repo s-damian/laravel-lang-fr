@@ -9,7 +9,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.n
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -32,6 +32,7 @@ return [
         'array' => 'Le tableau :attribute doit avoir entre :min et :max éléments.',
     ],
     'boolean' => 'Le champ :attribute doit être vrai ou faux.',
+    'can' => 'Le champ :attribute contient une valeur non autorisée.', // added
     'confirmed' => 'Le champ de confirmation :attribute ne correspond pas.',
     'current_password' => 'Le mot de passe est incorrect.',
     'date' => 'Le champ :attribute n\'est pas une date valide.',
@@ -51,6 +52,7 @@ return [
     'ends_with' => 'Le champ :attribute doit se terminer par l\'une des valeurs suivantes : :values.',
     'enum' => 'Le champ :attribute sélectionné est invalide.',
     'exists' => 'Le champ :attribute sélectionné est invalide.',
+    'extensions' => "Le champ :attribute doit avoir l'une des extensions suivantes: :values.", //added
     'file' => 'Le champ :attribute doit être un fichier.',
     'filled' => "Le champ :attribute est obligatoire.",
     'gt' => [
@@ -65,6 +67,7 @@ return [
         'numeric' => 'Le champ :attribute doit être supérieur ou égal à :value.',
         'string' => 'Le champ :attribute doit être supérieur ou égal à :value caractères.',
     ],
+    'hex_color' => 'Le champ :attribute doit être une couleur hexadécimale valide.', //added
     'image' => 'Le champ :attribute doit être une image.',
     'in' => 'Le champ :attribute est invalide.',
     'in_array' => 'Le champ :attribute n\'existe pas dans :other.',
@@ -120,6 +123,10 @@ return [
         'uncompromised' => 'Le :attribute donné est apparu dans une fuite de données. Veuillez choisir un autre :attribute.',
     ],
     'present' => 'Le champ :attribute doit être present.',
+    'present_if' => 'Le champ :attribute doit être présent lorsque :other est :value.',   // add
+    'present_unless' => 'Le champ :attribute doit être présent, sauf si :other est :value.', // add
+    'present_with' => 'Le champ :attribute doit être présent lorsque :values est present.', // add
+    'present_with_all' => 'Le champ :attribute doit être présent lorsque :values sont présents.', // add
     'prohibited' => 'Le champ :attribute est interdit.',
     'prohibited_if' => 'Le champ :attribute est interdit lorsque :other vaut :value.',
     'prohibited_unless' => 'Le champ :attribute est interdit sauf si :other est dans :values.',
