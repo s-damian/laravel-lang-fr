@@ -26,10 +26,10 @@ return [
     'before' => 'Le champ :attribute doit être une date antérieure au :date.',
     'before_or_equal' => 'Le champ :attribute: doit être une date avant ou égale à :date.',
     'between' => [
-        'numeric' => 'La valeur de :attribute doit être comprise entre :min et :max.',
-        'file' => 'Le fichier :attribute doit avoir une taille entre :min et :max kilo-octets.',
-        'string' => 'Le texte :attribute doit avoir entre :min et :max caractères.',
         'array' => 'Le tableau :attribute doit avoir entre :min et :max éléments.',
+        'file' => 'Le fichier :attribute doit avoir une taille entre :min et :max kilo-octets.',
+        'numeric' => 'La valeur de :attribute doit être comprise entre :min et :max.',
+        'string' => 'Le texte :attribute doit avoir entre :min et :max caractères.',
     ],
     'boolean' => 'Le champ :attribute doit être vrai ou faux.',
     'can' => 'Le champ :attribute contient une valeur non autorisée.', // added
