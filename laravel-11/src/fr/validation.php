@@ -129,7 +129,6 @@ return [
     'present_unless' => 'Le champ :attribute doit être présent à moins que :other soit :value.',
     'present_with' => 'Le champ :attribute doit être présent lorsque :values est présent.',
     'present_with_all' => 'Le champ :attribute doit être présent lorsque :values sont présents.',
-    'present' => 'Le champ :attribute doit être present.',
     'prohibited' => 'Le champ :attribute est interdit.',
     'prohibited_if' => 'Le champ :attribute est interdit lorsque :other vaut :value.',
     'prohibited_unless' => 'Le champ :attribute est interdit sauf si :other est dans :values.',
